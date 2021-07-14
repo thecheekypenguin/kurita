@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+body{
+  background-color: red;
+  color: blue;
+  background-image: url("https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/cat_16x9.jpg?itok=1uV8V4Gl");
+}
+
+section{
+  background-color: rgb(255,255,255, 0.7);
+}
+
+#first-p{
+  font-family: 'Roboto', sans-serif;
+}
